@@ -47,4 +47,4 @@ bower install image placeholder --save (to save it) <br>
   </li>
 </ul>
 
-<a href="https://plnkr.co/edit/yjctQDq7pJexMhePcSXW?p=preview">example</a>
+<a href="https://plnkr.co/edit/yjctQDq7pJexMhePcSXW?p=preview" target="_blank">example</a>
