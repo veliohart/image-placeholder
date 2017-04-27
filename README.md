@@ -31,7 +31,7 @@ bower install image placeholder --save (to save it) <br>
     important! <br>
     value of placeholder fields must be a "base64" string of image. <br>
     <br>
-    You can use: 
+    You can use: <br>
       <a href="http://zhongdeliu.github.io/placeholder-image/">http://zhongdeliu.github.io/placeholder-image/</a> 
       - to generate placeholder <br>
       or <br>
