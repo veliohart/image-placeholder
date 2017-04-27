@@ -1,0 +1,26 @@
+{
+  "name": "image-placeholder",
+  "authors": [
+    "veliohart <veliohart@gmail.com>"
+  ],
+  "description": "",
+  "main": "dst/image-placeholder.min.js",
+  "keywords": [
+    "base64",
+    "ng-image-placeholder",
+    "image-placeholder",
+    "angular-image-placeholder"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
